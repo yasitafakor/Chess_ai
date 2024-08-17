@@ -42,9 +42,7 @@ Welcome to the **Chess Game** project, a fully interactive chess application bui
 
 - **Main**: Displays the main graphical interface, where players can choose to start a new game, continue a saved game, or play against another player or the AI.
 
-## Getting Started
 
-### Prerequisites
 
 - **Java Development Kit (JDK)**: Make sure you have JDK 8 or higher installed.
 
