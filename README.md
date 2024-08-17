@@ -48,25 +48,6 @@ Welcome to the **Chess Game** project, a fully interactive chess application bui
 
 - **Java Development Kit (JDK)**: Make sure you have JDK 8 or higher installed.
 
-### Installation
 
-1. **Clone the repository**:
-   ```bash
-   git clone https://github.com/yourusername/chess-game.git
-   ```
-2. **Compile the Java files**:
-   ```bash
-   javac -d bin src/**/*.java
-   ```
-3. **Run the game**:
-   ```bash
-   java -cp bin com.yourpackage.Main
-   ```
-
-## How to Play
-
-- **Two-Player Mode**: Start the game and alternate turns with a friend.
-- **AI Mode**: Select the AI option from the main menu and play against the computer, which uses the MiniMax algorithm to make strategic moves.
-- **Save and Continue**: Save your game at any point and resume later. Choose the "Continue" option from the main menu to load your previous game state.
 
 
