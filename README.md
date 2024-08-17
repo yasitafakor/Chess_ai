@@ -44,8 +44,4 @@ Welcome to the **Chess Game** project, a fully interactive chess application bui
 
 
 
-- **Java Development Kit (JDK)**: Make sure you have JDK 8 or higher installed.
-
-
-
 
